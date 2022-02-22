@@ -1,2 +1,7 @@
-# github-demo
-A simple demo
+#Staerter Web Project
+
+##Introduction
+
+##Purpose
+
+##How To Contribute
